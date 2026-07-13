@@ -3,4 +3,5 @@ starting with github :)
 
 small change
 
-Updated installation instructions - simple ---- Another change simple
+Updated installation instructions
+Update requirements
